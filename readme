@@ -1,0 +1,14 @@
+## Algorithm
+# Different Categories of an algorithm
+Adaptive algorithm:- An algorithm that changes its behaviour on change of input given to it.
+example:- Insertion sort{ beacuse its TC is O(N^2), but if input is sorted than TC is O(N). so, its behaviour of time complexity (TC) is change according to input behaviour} , bubble sort ,shell sort and quick sort.
+
+
+In-place algorithm:- An algorithm which transform input without using extra space requirement or with very small or constant space .
+example:-  selection sort, bubble sort ,heap sort and quick sort etc .
+
+Out-place algorithm:- An algorithm which transform input that using extra space requirement of size N .
+example:-  merge sort 
+
+stable algorithm:- A sorting algorithm is stable if two object with  equal keys appear in  the same order in the sorted output as  they appear in the input array.
+example:- bubble sort ,merge sort, radix sort, Insertion sort.
